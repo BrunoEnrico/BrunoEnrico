@@ -76,7 +76,7 @@
 
 <!-- Citação -->
 <div>
-  <img align="right" height="200" style="margin-left: 16px;" src="https://i.gifer.com/BRRq.webp" alt="galadriel gif"/>
+  <img align="right" height="170" style="margin-left: 16px;" src="https://i.gifer.com/BRRq.webp" alt="galadriel gif"/>
 </div>
 
 > _"Até a menor das pessoas pode mudar o futuro."_  
