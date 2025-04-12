@@ -63,8 +63,8 @@
 
 <!-- GitHub Stats -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoEnrico&layout=compact&langs_count=4&theme=dark" alt="Github top linguagens" height="180" />
-  <img src="https://streak-stats.demolab.com?user=BrunoEnrico&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="180" alt="streak graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoEnrico&layout=compact&langs_count=4&theme=dark" alt="Github top linguagens" height="150" />
+  <img src="https://streak-stats.demolab.com?user=BrunoEnrico&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
 </div>
 
 <!-- 🐍 Snake animation -->
