@@ -4,8 +4,8 @@
 </div>
 
 <!-- 🧑‍💻 Título e resumo -->
-<h1 align="center">Bem-vindo(a) ao meu repositório :D</h1>
-<p align="center"><i>Desenvolvedor Python 🐍 | Machine Learning 🧠 | RPA 🤖</i></p>
+<h1 align="center">Welcome to my repo :D</h1>
+<p align="center"><i>Python 🐍 | Machine Learning 🧠 | AI 🤖</i></p>
 
 ---
 
@@ -14,11 +14,11 @@
   <img align="right" height="200" style="margin-left: 16px;" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjk5dTR6N3RjMmcwZnV6OTJyOTM0aDhlbHdwNHhmazZlaXh4ano4bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jp7jSyjNNz2ansuOS8/giphy.gif" alt="gif coding"/>
 
   <p>
-    ✨ Já crio bugs desde 2015, extremamente apaixonado por tecnologia e aprender.
+    ✨ Creating bugs since 2015, In love with technology and learning.
     <br><br>
-    📚 Formado em Análise e Dev. de Sistemas, pós-graduado em Data Science & Analytics e cursando uma segunda pós em Machine Learning Engineering :)
+    📚 Graduated in System Development, MBA in Data Science & Analytics and taking a second post-grad in Machine Learning Engineering :)
     <br><br>
-    🎯 Meu objetivo principal é continuar masterizando tecnologias :D
+    🎯 My main goal is to learn and have fun :)
   </p>
 </div>
 
@@ -39,7 +39,7 @@
 ---
 
 <!-- Skills -->
-<h3 align="center">🛠 Linguagens e Ferramentas</h3>
+<h3 align="center">🛠 Tools and Languages</h3>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
@@ -78,6 +78,5 @@
 <div>
   <img align="right" height="170" style="margin-left: 16px;" src="https://i.gifer.com/BRRq.webp" alt="galadriel gif"/>
 </div>
-
-> _"Até a menor das pessoas pode mudar o futuro."_  
-> — **Galadriel**, *O Senhor dos Anéis - A Sociedade do Anel*
+  
+> — **Galadriel**, *The Lord of the Rings - Fellowship of the Ring*
